@@ -1,0 +1,24 @@
+.body_text h2{
+    font-family: "Lobster",cursive;
+    color: rgba(240,69,6,.06);
+    font-size: 160px;
+    font-weight: 400;
+    text-align: center;
+}
+.body_text h1{
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 24px;
+    text-align: center;
+}
+.title_image{
+    display: flex;
+    margin-top: 20px;
+    background-color: #fff5f2;
+}
+.title_image img{
+    width: 599px;
+    border-radius: 300px 0px 0px 300px;
+    
+}

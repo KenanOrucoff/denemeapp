@@ -1,0 +1,76 @@
+.text h1{
+    font-size: 80px;
+    margin-left: 40px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 24px;
+    width: 80%;
+}
+.text p{
+    margin-bottom: 40px;
+    color: #1a1a1a;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight: 700;
+    width: 80%;
+    margin-left: 40px;
+}
+.text-image{
+    display: flex;
+    margin-top: 20px;
+    background-color: #fff5f2;;
+}
+.text-image img{
+    width: 500px;
+    border-radius: 300px 0px 0px 300px;
+    
+}
+.text{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.text h2{
+    font-family: "Lobster";
+    color: rgba(240,69,6,.06);
+    font-size: 160px;
+    font-weight: 400;
+    
+}
+.shop-title{
+    position: absolute;
+    top: 70px;
+    left: 70px;
+}
+
+@media screen and (max-width: 960px){
+    .text-image img{
+    display: none;
+        
+    }
+    .text-image{
+        padding-bottom: 80px;
+    }
+    .text{
+        margin-left: 10px;
+    }
+    .text h2{
+        display: none;
+    }
+    .text h1{
+        font-size: 35px;
+       width: 85%;
+       margin: 0px;
+        
+    }
+    .text p{
+        margin-bottom: 40px;
+        color: #1a1a1a;
+        font-size: 16px;
+        line-height: 1.6;
+        font-weight: 600;
+        width: 95%;
+        margin: 0px;
+        margin-top: 25px;
+        
+    }
+}

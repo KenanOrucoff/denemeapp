@@ -1,0 +1,90 @@
+.btn{
+    background-color: #f04506;
+    border: 5px;
+    cursor: pointer;
+    border-radius: 25px;
+    padding: 13px 37px;
+    margin-top: 3px;
+    margin-left: 40px;
+    font-size: 16px;
+
+
+}
+.btn_text{
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+  }
+
+.btn:hover a{
+    color: white;
+}
+.call-buttons{
+    color: #f04506;
+    font-family: "Quicksand",sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration: none;
+}
+.fa-phone-alt{
+    padding-right: 10px;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    margin-right: 40px;
+}
+.btn_text_2{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+
+}
+.btn_3{
+    margin-left: 20%;
+    margin-top: 15px;
+    border: none;
+    padding: 13px 37px;
+    cursor: pointer;
+    box-shadow: 0 17px 27px rgb(240 69 6 / 27%);
+    
+}
+.btn_text_3{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Quicksand",sans-serif;
+}
+
+.btn_4{
+    margin-top: 20px;
+    border: none;
+    padding: 13px 37px;
+    cursor: pointer;
+    box-shadow: 0 17px 27px rgb(240 69 6 / 27%);
+    
+}
+.btn_text_4{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Quicksand",sans-serif;
+}
+
+@media screen and (max-width: 960px){
+
+    .btn{
+        margin-left: 10px;
+        margin-top: 30px;
+        border-radius: 30px;
+        padding: 16px 37px;
+    }
+    .btn_3{
+        padding: 20px 43px;
+        margin-left: 40px
+    }
+   
+   
+}
