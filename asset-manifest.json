@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/denemeapp/static/css/main.13185e9c.chunk.css",
+    "main.js": "/denemeapp/static/js/main.ebf18b89.chunk.js",
+    "main.js.map": "/denemeapp/static/js/main.ebf18b89.chunk.js.map",
+    "runtime-main.js": "/denemeapp/static/js/runtime-main.d69a0802.js",
+    "runtime-main.js.map": "/denemeapp/static/js/runtime-main.d69a0802.js.map",
+    "static/css/2.f02bbcb6.chunk.css": "/denemeapp/static/css/2.f02bbcb6.chunk.css",
+    "static/js/2.dd878b6b.chunk.js": "/denemeapp/static/js/2.dd878b6b.chunk.js",
+    "static/js/2.dd878b6b.chunk.js.map": "/denemeapp/static/js/2.dd878b6b.chunk.js.map",
+    "index.html": "/denemeapp/index.html",
+    "static/css/2.f02bbcb6.chunk.css.map": "/denemeapp/static/css/2.f02bbcb6.chunk.css.map",
+    "static/css/main.13185e9c.chunk.css.map": "/denemeapp/static/css/main.13185e9c.chunk.css.map",
+    "static/js/2.dd878b6b.chunk.js.LICENSE.txt": "/denemeapp/static/js/2.dd878b6b.chunk.js.LICENSE.txt",
+    "static/media/Logo.82b592cd.webp": "/denemeapp/static/media/Logo.82b592cd.webp",
+    "static/media/Logo2.9038a43c.webp": "/denemeapp/static/media/Logo2.9038a43c.webp",
+    "static/media/Redcake.jpg": "/denemeapp/static/media/Redcake.75199eec.jpg",
+    "static/media/about.webp": "/denemeapp/static/media/about.7cce4c0b.webp",
+    "static/media/blackforest.jpg": "/denemeapp/static/media/blackforest.a083fc8e.jpg",
+    "static/media/cake5.webp": "/denemeapp/static/media/cake5.f0cf55a5.webp",
+    "static/media/cake6.webp": "/denemeapp/static/media/cake6.92d11e17.webp",
+    "static/media/cakee.jpg": "/denemeapp/static/media/cakee.36d193db.jpg",
+    "static/media/chocolate.jpg": "/denemeapp/static/media/chocolate.37efade3.jpg",
+    "static/media/face.webp": "/denemeapp/static/media/face.ee5023e3.webp",
+    "static/media/face2.webp": "/denemeapp/static/media/face2.3b0feecd.webp",
+    "static/media/icon1.svg": "/denemeapp/static/media/icon1.b7a84e6b.svg",
+    "static/media/icon2.svg": "/denemeapp/static/media/icon2.eccb4b1d.svg",
+    "static/media/icon3.svg": "/denemeapp/static/media/icon3.28a853b2.svg",
+    "static/media/strawberry.jpg": "/denemeapp/static/media/strawberry.a870a7bd.jpg",
+    "static/media/title.webp": "/denemeapp/static/media/title.ee2332de.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d69a0802.js",
+    "static/css/2.f02bbcb6.chunk.css",
+    "static/js/2.dd878b6b.chunk.js",
+    "static/css/main.13185e9c.chunk.css",
+    "static/js/main.ebf18b89.chunk.js"
+  ]
+}
